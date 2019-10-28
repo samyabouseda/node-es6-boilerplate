@@ -26,5 +26,8 @@ Change `name, version, description, repository, author, bugs, homepage`
 
 ## Scripts
 
-1. `start`    
-Transpile ES6 and start node server. 
+1. `npm start`    
+Transpile ES6 and start node server.
+
+2. `npm test`
+Run tests.
